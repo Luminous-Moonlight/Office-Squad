@@ -17,7 +17,7 @@
 
 ### Pro
 
-* [What happens when I type `kubectl run`?](https://github.com/jamiehannaford/what-happens-when-k8s/tree/master/zh-cn) 
+* [What happens when I type `kubectl run`?](https://github.com/jamiehannaford/what-happens-when-k8s/tree/master/zh-cn)
 * Informer Model：[图解原理](https://www.kubernetes.org.cn/6905.html)和[深入剖析](https://cloudnative.to/blog/client-go-informer-source-code/)；
 * Scheduler：[阅读调度设计精要](https://draveness.me/system-design-scheduler/)，直接搜“Kubernetes 是生产级别的容器调度和管理系统”快速跳转到 Kubernetes 部分；
 * Network：TODO；
