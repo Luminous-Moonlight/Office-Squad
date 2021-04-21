@@ -1,12 +1,12 @@
-# Microsoft
+# Akuna
 
 ## C+AI (Cloud And AI) 2021 Summer Internship
 
-> Position: Software Development Intern
+> Position: Software Development Intern (Dynamics 365)
 > 
 > Focusing: Developing Skills, Willingness To Work
 > 
-> Process: Two forty-five minute interviews
+> Process: Three 45 minutes online interviews
 
 ## 一面
 
@@ -118,3 +118,28 @@ vector<int> arrayAndSwap(vector<int> a1, vector<int> a2) {
 
 1. 必须将语言特性，比如 C++, Python, GoLang 的特性，包括排序，标准库，各种面向对象打包编程等等熟悉一下
 2. 基础的数据结构还是得多熟悉一下，不能偷懒
+
+## 三面
+
+### 面试启动
+
+1. 面试官自我介绍，面试官介绍部门
+2. 面试官要求面试者英文介绍
+
+### 沟通相关
+
+1. 用英文介绍一下自己在学校最喜欢的课程
+
+### 算法题
+
+````c++
+/* A random integer array need to be divide into two parts
+ * The sum of left part is equal to the sum of right part
+ * Find the index of the division 
+ * (number at the index is not included by any parts)
+ */
+````
+
+### 复盘
+
+1. 面试官说我的英文实在是太烂了，一定要好好弄英文口语和听力
